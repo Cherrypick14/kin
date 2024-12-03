@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/kin_backend"
+]
+resolver = "2"
