@@ -14,11 +14,10 @@
 **/declarations/
 
 # rust
-# target/
+target
 
-node_modules
-target/
-
+# frontend code
+node_modules/
 
 dist/
 .svelte-kit/
